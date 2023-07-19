@@ -1,15 +1,15 @@
 ### Hi there! My name is Lucas Mezêncio 🤓
 
-I'm a 🇧🇷 **Brazilian** software engineer, currently living in 🇵🇹 **Portugal**, working for 🇲🇹 **Malta**
+I'm a 🇧🇷 **Brazilian** Software Engineer, currently living in 🇵🇹 **Portugal**, working for 🇲🇹 **Malta**
 
 - 🔭 I’m currently working with 🐘**PHP** and 🐍**Python** in some personal projects
 - 🤹‍♀️ I like to collaborate to **OpenSource** projects as much as I can, together with some software translations 🔣
 - 👨‍💻 I'm a **DevOps** enthusiast
-- 🤼 I believe in social justice and that knowledge should be always shared
+- 🤼 I believe in social justice and that knowledge should always be shared
 - 🎧 I love music, 📺 TV Shows and to ✈️ travel
 - 💬 Ask me about `/(bb|[ˆb]{2})/`
 - 📫 How to reach me: [lucasmezencio@about.me](https://about.me/lucasmezencio)
-- ⚡ Fun fact: I know how to bake bread 🥖
+- ⚡ Fun fact: I know how to bake bread 🥖, and I'm a [homebrewer](https://gugz.beer) 🍺
 
 <!--
 **lucasmezencio/lucasmezencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
