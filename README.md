@@ -1,6 +1,6 @@
 ### Hi there! My name is Lucas Mezêncio 🤓
 
-I'm a 🇧🇷 **Brazilian** Software Engineer, currently living in 🇵🇹 **Portugal**, working for 🇲🇹 **Malta**
+I'm a 🇧🇷 **Brazilian** Software Engineer, living in 🇵🇹 **Portugal**
 
 - 🔭 I’m currently working with 🐘**PHP**, 🤖**TypeScript** professionally, and 🐍**Python** for some personal projects
 - 🤹‍♀️ I like to collaborate to **OpenSource** projects as much as I can, together with some software translations 🔣
