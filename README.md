@@ -1,8 +1,10 @@
 ### Hi there! My name is Lucas Mezêncio 🤓
 
-I'm a 🇧🇷 **Brazilian** Software Engineer, living in 🇵🇹 **Portugal**
+I'm a 🇧🇷 **Brazilian** Software Engineer, living in 🇵🇹 **Portugal**.
 
-- 🔭 I’m currently working with 🐘**PHP**, 🤖**TypeScript** professionally, and 🐍**Python** for some personal projects
+> Collecting data is only the first step toward knowledge but sharing data is the first step toward community.
+
+- 🔭 I’m currently working proferssionally with 🤖**TypeScript** and 🐘**PHP**, and 🐍**Python** for some personal projects
 - 🤹‍♀️ I like to collaborate to **OpenSource** projects as much as I can, together with some software translations 🔣
 - 👨‍💻 I'm a **DevOps** enthusiast
 - 🤼 I believe in Social Justice and that knowledge should always be shared
